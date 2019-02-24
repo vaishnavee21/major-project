@@ -1,4 +1,4 @@
-.white{
+ .white{
     color:#000;
     background-color:blueviolet;
 }
@@ -35,4 +35,4 @@
     .btn-facebook:active,
     .btn-facebook.active {
         background-color: #0d2456 \9 !important;
-    }
+    } 
