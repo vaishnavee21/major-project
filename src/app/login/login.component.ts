@@ -20,7 +20,8 @@ loginUser(event){
 
   if(user == "admin" && pass == "qwerty" )
   {
-    this.router.navigate(['/','mainpage']);
+    alert("000");
+    this.router.navigate(['/mainpage']);
     console.log("Login successful");
   }
   else{
